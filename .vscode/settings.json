@@ -1,0 +1,14 @@
+{
+  "java.project.sourcePaths": ["src"],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": [],
+
+  // Configure runtime to match the active JDK on your machine. Update the `path` to your JDK 25 install if needed.
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-25",
+      "path": "C:\\Program Files\\Java\\jdk-25",
+      "default": true
+    }
+  ]
+}
